@@ -1,0 +1,10 @@
+### Python Folders ###
+__pycache__/
+.ipynb_checkpoints
+
+### Virtual Enviroment ###
+/tf
+/tf-cpu
+
+### Weights Folder ###
+/weights
